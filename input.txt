@@ -1,0 +1,9 @@
+8 24
+Item1 10 7 
+Item2 10 7 
+Item3 10 7 
+Item4 9 7 
+Item5 9 7 
+Item6 9 7 
+Item7 9 7 
+Item8 9 7 
