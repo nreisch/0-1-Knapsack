@@ -5,6 +5,7 @@
 #include <string>
 #include <algorithm>    // std::reverse
 #include <math.h>
+#include <cstring> // strcmp
 
 using namespace std;
 

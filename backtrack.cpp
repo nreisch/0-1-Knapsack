@@ -3,6 +3,8 @@
 #include <random>
 #include <vector>
 #include <string>
+#include <cstring> // strcmp
+#include <algorithm>
 
 using namespace std;
 

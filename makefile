@@ -5,8 +5,8 @@ all:
 	g++ -std=c++11 dynpro.cpp -o dynpro
 	g++ -std=c++11 backtrack.cpp -o backtrack
 
-clean: backtrack dynpro bruteforce createKn01
+clean: backtrack dynpro bruteforce createkn01
 	rm backtrack
 	rm dynpro
 	rm bruteforce
-	rm createKn01
+	rm createkn01
