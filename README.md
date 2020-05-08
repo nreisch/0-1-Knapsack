@@ -1,24 +1,25 @@
 # Compilation:
-'''sh
+```sh
 $ make
-'''
+```
 
 # Execution:
 _Creates formatted data file_
-'''sh
+```sh
 $ ./createkn01 -k <outputFile>
-'''
+```
     
 _Bruteforce_
-'''sh
+```sh
 $ ./bruteforce -k <inputFile>
-'''
+```
 
 _Dynamic Programming_
-'''sh
+```sh
 $ ./dynpro -k <inputFile>
-'''
+```
+
 _Backtracking_
-'''sh
+```sh
 $ ./backtrack -k <inputFile>
-'''
+```
