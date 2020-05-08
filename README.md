@@ -1,8 +1,24 @@
-Compilation:
-    $> make
+# Compilation:
+'''sh
+$ make
+'''
 
-To Run:
-    $> ./createkn01 -k <outputFile>
-    $> ./bruteforce -k <inputFile>
-    $> ./dynpro -k <inputFile>
-    $> ./backtrack -k <inputFile>
+# Execution:
+_Creates formatted data file_
+'''sh
+$ ./createkn01 -k <outputFile>
+'''
+    
+_Bruteforce_
+'''sh
+$ ./bruteforce -k <inputFile>
+'''
+
+_Dynamic Programming_
+'''sh
+$ ./dynpro -k <inputFile>
+'''
+_Backtracking_
+'''sh
+$ ./backtrack -k <inputFile>
+'''
